@@ -1,19 +1,22 @@
 # Canvas-Emailer
 Most Canvas courses disable students from selecting the whole class to email at once. This script gets around that by simulating the keystrokes to add each individual student.
 
+Downloads are available under [releases](https://github.com/krez-sch/Canvas-Emailer/releases)
+
 ## Supported Operating Systems
 + Windows
 + Linux (other Unix-based systems such as Mac should work, but only Linux was tested)
 
 ## Windows Instructions
-+ Install AutoHotkey (optional) and download **CanvasEmailer.ahk**, **contactsearch1.png**, and **contactsearch2.png**
++ (Optional) Install AutoHotkey and download **CanvasEmailer.Windows.zip**. Extract the full zip.
 + If not installing AutoHotkey, download **CanvasEmailer.exe**
-+ Run it and follow the directions.
++ Run the .ahk or .exe and follow the directions.
 + You can press Escape to cancel the automated keystrokes at any time.
 
 ## Linux/Unix Instructions
-+ Install xdotool (required for sending the keystrokes)
-+ Download **CanvasEmailer.sh**
++ [Install xdotool](https://github.com/jordansissel/xdotool#installation) (required for sending the keystrokes)
++ If you can't install from the terminal, you'll need to download it.
++ Download **CanvasEmailer.Linux_Unix.tar.gz** and extract the archive.
 + If you don't know how many students are in your class, check the People tab from the Canvas page.
 + Open the [Canvas Inbox](https://csulb.instructure.com/conversations)
 + Create a new message and select the course you'll be emailing.
