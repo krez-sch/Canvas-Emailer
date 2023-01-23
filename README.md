@@ -15,7 +15,6 @@ Downloads are available under [releases](https://github.com/krez-sch/Canvas-Emai
 
 ## Linux/Unix Instructions
 + [Install xdotool](https://github.com/jordansissel/xdotool#installation) (required for sending the keystrokes)
-+ If you can't install from the terminal, you'll need to download it.
 + Download **CanvasEmailer.Linux_Unix.tar.gz** and extract the archive.
 + If you don't know how many students are in your class, check the People tab from the Canvas page.
 + Open the [Canvas Inbox](https://csulb.instructure.com/conversations)
