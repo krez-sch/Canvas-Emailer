@@ -18,7 +18,7 @@ Most Canvas courses disable students from selecting the whole class to email at 
 + Open the [Canvas Inbox](https://csulb.instructure.com/conversations)
 + Create a new message and select the course you'll be emailing.
 + Run **CanvasEmailer.sh** (you may need to run **chmod a+x CanvasEmailer.sh**)
-+ Move your mouse to the contacts icon next to the To field
++ Move your mouse to the contacts icon next to the To field (this version does not use image detection)
 + After 3 seconds it will print the coordinates
 + Edit the script in any text editor
 + Modify the class size for your class
