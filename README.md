@@ -20,7 +20,7 @@ Downloads are available under [releases](https://github.com/krez-sch/Canvas-Emai
 + If you don't know how many students are in your class, check the People tab from the Canvas page.
 + Open the [Canvas Inbox](https://csulb.instructure.com/conversations)
 + Create a new message and select the course you'll be emailing.
-+ Run **CanvasEmailer.sh** (you may need to run **chmod a+x CanvasEmailer.sh**)
++ Run **CanvasEmailer.sh** (If it doesn't start you may need to run **chmod a+x CanvasEmailer.sh**)
 + Move your mouse to the contacts icon next to the To field (this version does not use image detection)
 + After 3 seconds it will print the coordinates
 + Edit the script in any text editor
