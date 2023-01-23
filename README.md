@@ -28,6 +28,6 @@ Most Canvas courses disable students from selecting the whole class to email at 
 + To cancel the script, switch to the terminal and press Ctrl-C. (Cmd-C for Mac)
 
 ## Disclaimer & Final Notes
-**This script has no warranty.** You are using this with your own Canvas account, and are solely responsible for any actions or unintended behavior caused by the script. By running this script in any form, you agree to this condition.
-This script's sole purpose is to add students to an email you are voluntarily creating. You need to format the email and send it yourself.
-Occasionally some students may not be added properly. (Including but not limited to browser freezing, slow computer, poor network connection, etc.) It is your responsibility to ensure the correct people are added.
++ **This script has no warranty.** You are using this with your own Canvas account, and are solely responsible for any actions or unintended behavior caused by the script. By running this script in any form, you agree to this condition.
++ This script's sole purpose is to add students to an email you are voluntarily creating. You need to format the email and send it yourself.
++ Occasionally some students may not be added properly. (Including but not limited to browser freezing, slow computer, poor network connection, etc.) It is your responsibility to ensure the correct people are added.
