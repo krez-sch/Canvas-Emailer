@@ -8,14 +8,14 @@ Downloads are available under [releases](https://github.com/krez-sch/Canvas-Emai
 + Linux (other Unix-based systems such as Mac should work, but only Linux was tested)
 
 ## Windows Instructions
-+ (Optional) Install AutoHotkey and download **CanvasEmailer.Windows.zip**. Extract the full zip.
-+ If not installing AutoHotkey, download **CanvasEmailer.exe**
++ (Optional) Install AutoHotkey and download [CanvasEmailer.Windows.zip](https://github.com/krez-sch/Canvas-Emailer/releases/download/release/CanvasEmailer.Windows.zip). Extract the full zip.
++ If not installing AutoHotkey, download [CanvasEmailer.exe](https://github.com/krez-sch/Canvas-Emailer/releases/download/release/CanvasEmailer.exe)
 + Run the .ahk or .exe and follow the directions.
 + You can press Escape to cancel the automated keystrokes at any time.
 
 ## Linux/Unix Instructions
 + [Install xdotool](https://github.com/jordansissel/xdotool#installation) (required for sending the keystrokes)
-+ Download **CanvasEmailer.Linux_Unix.tar.gz** and extract the archive.
++ Download [CanvasEmailer.Linux_Unix.tar.gz](https://github.com/krez-sch/Canvas-Emailer/releases/download/release/CanvasEmailer.Linux_Unix.tar.gz) and extract the script from the archive.
 + If you don't know how many students are in your class, check the People tab from the Canvas page.
 + Open the [Canvas Inbox](https://csulb.instructure.com/conversations)
 + Create a new message and select the course you'll be emailing.
